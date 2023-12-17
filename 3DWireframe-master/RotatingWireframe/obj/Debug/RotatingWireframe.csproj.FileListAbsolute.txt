@@ -1,0 +1,11 @@
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\bin\Debug\RotatingWireframe.exe.config
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\bin\Debug\RotatingWireframe.exe
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\bin\Debug\RotatingWireframe.pdb
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\obj\Debug\RotatingWireframe.csproj.AssemblyReference.cache
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\obj\Debug\RotatingWireframe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\obj\Debug\RotatingWireframe.WireframeCubeForm.resources
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\obj\Debug\RotatingWireframe.Properties.Resources.resources
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\obj\Debug\RotatingWireframe.csproj.GenerateResource.cache
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\obj\Debug\RotatingWireframe.csproj.CoreCompileInputs.cache
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\obj\Debug\RotatingWireframe.exe
+C:\Users\Ximena VMF\Documents\3DWireframe-master\RotatingWireframe\obj\Debug\RotatingWireframe.pdb
